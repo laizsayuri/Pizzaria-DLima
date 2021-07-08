@@ -1,0 +1,20 @@
+p b{
+    color: #ca1212;
+}
+
+#destaques{
+    background-color: #ca1212;
+}
+
+.carousel-caption{
+    background-color: rgba(232, 232, 232, 0.7);
+    border: 2px rgba(46, 49, 49, 1) solid;
+    border-radius: 15px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+#contato{
+    background-color: rgb(131, 128, 128);
+    color: white;
+}
