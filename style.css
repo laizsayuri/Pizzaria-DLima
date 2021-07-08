@@ -18,3 +18,7 @@ p b{
     background-color: rgb(131, 128, 128);
     color: white;
 }
+
+.destaque{
+    height: 100%;
+}
